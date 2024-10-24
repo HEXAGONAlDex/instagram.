@@ -15,6 +15,10 @@
 }
 
 .bg-back{
+    background-color: rgb(40, 38, 43);
+    color: white;
+}
+.bg-form{
     background-color: black;
     color: white;
 }
